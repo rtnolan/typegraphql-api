@@ -44,7 +44,7 @@
         "graphql-shield": "^7.2.6",
         "graphql-tools": "^5.0.0",
         "inversify": "^5.0.1",
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "reflect-metadata": "^0.1.13",
         "type-graphql": "^1.0.0-rc.1",
         "winston": "^3.2.1"
